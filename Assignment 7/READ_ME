@@ -1,0 +1,9 @@
+
+Clock for 7 segment display
+
+Format: 
+	HH:MM:SS
+	Code does NOT flash colons (was not required by the assignment description)
+
+Seven Segment data is is abcdefg format
+Segments flash every millisecond

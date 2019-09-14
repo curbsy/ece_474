@@ -1,0 +1,6 @@
+read_sverilog tas.sv
+compile
+report_timing
+report_area
+write -format verilog -hierarchy -output tas.gate.v
+quit!
